@@ -1,0 +1,49 @@
+body {
+	background: lightgray;
+	border: 2px solid blue;
+	border-radius: 10px;
+	width: 700px;
+	height: 500px;
+	margin: auto;
+	margin-top: 60px;
+	padding-left: 30px;
+	padding-top: 30px;
+
+
+
+}
+
+h1 {
+	font-family: sans-serif;
+	color: navy;
+	text-align: center;
+}
+
+
+input[type=text] {
+	border: 1px solid navy;
+	border-radius: 5px;
+	width: 670px;
+	height: 25px;	
+
+
+
+}
+label {
+	font-size: 20px;
+	color: navy;
+	font-family: serif;
+	font-weight: bold;
+	color: navy;
+	
+	
+	}
+
+#text {
+	border: 5px solid navy;
+}
+select {
+	font-weight: bold;
+	font-size: 20px;
+}
+
